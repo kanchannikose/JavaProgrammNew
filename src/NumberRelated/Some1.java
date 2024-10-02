@@ -2,7 +2,7 @@ package NumberRelated;
 
 import java.util.HashMap;
 
-public class Some {
+public class Some1 {
 
 	public static  void repeating(String str) {
 	
